@@ -1,0 +1,14 @@
+{
+    "playerVariables": {
+        "A": "Is initialized",
+        "B": "Is morphed",
+        "C": "Morph time",
+        "D": "Original hero",
+        "E": "HUD text ID",
+        "F": "Has been killed",
+        "G": "Killer ID",
+        "H": "Icon ID",
+        "I": "Friendly icon ID",
+        "J": "Enemy icon ID"
+    }
+}
